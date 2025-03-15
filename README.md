@@ -21,7 +21,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mona-2010&layout=compact&theme=radical)  
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mona-2010&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mona-2010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mona-2010&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 
