@@ -33,7 +33,7 @@
 
 ## 🚀 Top Repositories
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mona-2010/Colorize_image-Using_DEEP_LEARNING">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mona-2010&repo=Colorize_image-Using_DEEP_LEARNING&theme=tokyonight" alt="Colorize Image" />
   </a>
