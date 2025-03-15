@@ -37,8 +37,8 @@
   <a href="https://github.com/mona-2010/Colorize_image-Using_DEEP_LEARNING">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mona-2010&repo=Colorize_image-Using_DEEP_LEARNING&theme=tokyonight" alt="Colorize Image" />
   </a>
-  <a href="https://github.com/mona-2010/Travel-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mona-2010&repo=your-other-repo&theme=tokyonight" alt="Your Other Repo" />
+  <a href="[https://github.com/mona-2010/Travel-App]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mona-2010&repo=Travel-App&theme=tokyonight" alt="Colorize Image"/>
   </a>
 </p>
 
