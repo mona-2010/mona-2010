@@ -4,7 +4,6 @@
 🌱 Pursuing My B. Tech Journey From Uka Tarsadia University in Surat, Gujarat.  
 🔭 I’m looking to contribute to Open Source.  
 💡 Interested in enhancing my skills in Python programming and software development.  
-## 💡 About Me
 
 I'm passionate about leveraging AI, automation, and data science to create impactful solutions. My projects span education, image processing, business intelligence, and human-computer interaction.
 
