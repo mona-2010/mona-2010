@@ -65,7 +65,7 @@ A hub of AI agents for automating and optimizing marketing and CRM analytics, in
 ---
 
 ## 📈 Other Notable Repos
-
+- [Market Analyzer](https://github.com/mona-2010/MarketAnalyzer): AI-powered Stock Market Analyzer
 - [Voyage](https://github.com/mona-2010/Voyage): JavaScript project for travel management.
 - [AirDraw GUI](https://github.com/mona-2010/AirDraw-GUI): Air drawing app using hand tracking.
 - [Article Recommendation System](https://github.com/mona-2010/Article-Recommendation-System): ML-powered article suggestion engine.
