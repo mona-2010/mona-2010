@@ -53,14 +53,14 @@ Machine learning classifiers predict student dropout based on demographic, acade
 ### 2. [Colorize Images Using Deep Learning](https://github.com/mona-2010/Colorize_image-Using_DEEP_LEARNING)
 Deep learning project for colorizing black & white images automatically.
 
-- **Tech:** Jupyter Notebook, Deep Learning
+- **Tech:** Jupyter Notebook, Deep Learning, Tkinter GUI
 
 ---
 
 ### 3. [AI Marketing Agent Hub](https://github.com/mona-2010/product-agent-hub)
 A hub of AI agents for automating and optimizing marketing and CRM analytics, integrating with Slack and other tools.
 
-- **Tech:** TypeScript, Docker, CrewAI
+- **Tech:** TypeScript, React.js,Node js, MongoDB, n8n for AI Agent
 
 ---
 
