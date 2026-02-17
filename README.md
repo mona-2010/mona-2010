@@ -57,10 +57,10 @@ Deep learning project for colorizing black & white images automatically.
 
 ---
 
-### 3. [AI Marketing Agent Hub](https://github.com/mona-2010/product-agent-hub)
+### 3. [AI Marketing Agent Hub](https://github.com/mona-2010/TheStrategyFilter)
 A hub of AI agents for automating and optimizing marketing and CRM analytics, integrating with Slack and other tools.
 
-- **Tech:** TypeScript, React.js,Node js, MongoDB, n8n for AI Agent
+- **Tech:** TypeScript, React.js, Node js, MongoDB, n8n for AI Agent
 
 ---
 
