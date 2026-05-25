@@ -1,74 +1,168 @@
-# Hi there! 👋
+<div align="center">
 
-## 👨‍💻 About Me
-🌱 Pursuing My B. Tech Journey in Computer Science  
-🔭 I’m looking to contribute to Open Source.  
-💡 Interested in enhancing my skills in Machine Learning, Python programming and software development.  
+# Monalisa Padhy
 
-I'm passionate about leveraging AI, automation, and data science to create impactful solutions. My projects span education, image processing, business intelligence, and human-computer interaction.
+### Full Stack Developer • Next.js Engineer • AI Powered Applications
 
-## 💻 Tech Stack
-### My Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-## GitHub Stats
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production+Ready+Web+Applications;Next.js+%2B+Supabase+%2B+TypeScript;AI+Integrated+Full+Stack+Systems" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mona-2010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=mona-2010&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mona-2010&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<!-- Profile Views Badge (replace with your badge if you use a tracker like https://github.com/antonkomarev/github-profile-views-counter) -->
-![Profile Views](https://komarev.com/ghpvc/?username=mona-2010&color=blue)
-
-## 🔥 Contribution Streak
-
-<!-- Replace this with your actual streak badge from https://github.com/DenverCoder1/github-readme-streak-stats if desired -->
-![GitHub Streak](https://streak-stats.demolab.com?user=mona-2010&theme=dark&hide_border=true)
-
-## 🌟 Top Projects
-
-### 1. [Student Dropout Prediction using ML](https://github.com/mona-2010/Student-s-Dropout-Prediction-using-Supervised-Machine-Learning-Classifiers)
-Machine learning classifiers predict student dropout based on demographic, academic, and financial data, helping institutions improve retention rates.
-
-- **Tech:** Jupyter Notebook, Scikit-learn, Pandas
+</div>
 
 ---
 
-### 2. [Colorize Images Using Deep Learning](https://github.com/mona-2010/Colorize_image-Using_DEEP_LEARNING)
-Deep learning project for colorizing black & white images automatically.
+# 💫 About Me
 
-- **Tech:** Jupyter Notebook, Deep Learning, Tkinter GUI
+```ts
+const monalisa = {
+  role: "Full Stack Developer",
+  specialization: [
+    "Next.js Applications",
+    "Scalable SaaS Platforms",
+    "AI Integrated Systems",
+    "Modern Frontend Architecture"
+  ],
+  
+  currentFocus: [
+    "Production-grade applications",
+    "Supabase Architecture",
+    "AI workflows with LangChain",
+    "Performance optimization"
+  ],
+
+  techStack: {
+    frontend: ["Next.js", "React", "TypeScript", "Redux Toolkit"],
+    backend: ["Supabase", "PostgreSQL", "FastAPI"],
+    styling: ["Tailwind CSS", "Shadcn UI"],
+    ai: ["LangChain", "Gemini AI"],
+    tools: ["Git", "Vercel", "Postman"]
+  }
+}
+```
 
 ---
 
-### 3. [AI Marketing Agent Hub](https://github.com/mona-2010/TheStrategyFilter)
-A hub of AI agents for automating and optimizing marketing and CRM analytics, integrating with Slack and other tools.
+# 🚀 Tech Stack
 
-- **Tech:** TypeScript, React.js, Node js, MongoDB, n8n for AI Agent
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,python,tailwind,redux,postgresql,supabase,fastapi,nodejs,git,github,vercel,vscode" />
+
+</div>
 
 ---
 
-## 📈 Other Notable Repos
-- [Market Analyzer](https://github.com/mona-2010/MarketAnalyzer): AI-powered Stock Market Analyzer
-- [Voyage](https://github.com/mona-2010/Voyage): JavaScript project for travel management.
-- [AirDraw GUI](https://github.com/mona-2010/AirDraw-GUI): Air drawing app using hand tracking.
-- [Article Recommendation System](https://github.com/mona-2010/Article-Recommendation-System): ML-powered article suggestion engine.
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mona-2010&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mona-2010&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mona-2010&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🛒 3legant E-Commerce Platform
+
+> Production-grade e-commerce platform with admin dashboard, secure authentication, Stripe payments, and scalable Supabase architecture.
+
+**Tech Stack:**
+`Next.js` • `TypeScript` • `Supabase` • `Stripe` • `Redux Toolkit`
+
+🔗 https://github.com/mona-2010/3legant
+
+---
+
+## 📈 Market Analyzer — AI Stock Assistant
+
+> AI-powered financial analysis platform using LangChain agents and Google Gemini for real-time market insights.
+
+**Tech Stack:**
+`FastAPI` • `LangChain` • `Gemini AI` • `React`
+
+🔗 https://github.com/mona-2010/MarketAnalyzer
+
+---
+
+## 🧾 OCR Text Extraction Platform
+
+> OCR system for extracting and structuring text from scanned images using Tesseract.js and custom preprocessing pipelines.
+
+**Tech Stack:**
+`Next.js` • `TypeScript` • `Tesseract.js`
+
+🔗 https://github.com/mona-2010/Trustocr
+
+---
+
+## 🤖 The Strategy Filter — AI Marketing Automation Platform
+
+> Intelligent multi-agent marketing platform designed to automate brand strategy, content generation, competitor analysis, and growth planning using AI-powered workflows.
+
+### Highlights
+
+* Developed a multi-agent system featuring specialized AI agents for brand analysis, growth strategy, and content generation
+* Automated marketing workflows and campaign operations using **n8n orchestration pipelines**
+* Built scalable full-stack architecture using the **MERN stack** for seamless frontend and backend integration
+* Implemented modules for competitor analysis, brand positioning, social media strategy, and marketing insights
+* Generated AI-driven reports and strategic recommendations to support data-driven decision making
+* Designed the platform to improve operational efficiency and streamline digital marketing processes for businesses and startups
+
+### Tech Stack
+
+`MongoDB` • `Express.js` • `React` • `Node.js` • `n8n` • `AI Agents` • `Automation Workflows`
+
+🔗 Repository:
+https://github.com/mona-2010/TheStrategyFilter
+
+---
 
 
-_Thank you for visiting my profile! Feel free to explore my repositories and connect with me on [GitHub](https://github.com/mona-2010)._
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mona-2010">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="http://www.linkedin.com/in/monalisa-padhy-6360b6248">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building scalable applications with modern web technologies.
+
+</div>
