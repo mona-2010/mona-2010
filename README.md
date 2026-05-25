@@ -131,8 +131,6 @@ const monalisa = {
 * Automated marketing workflows and campaign operations using **n8n orchestration pipelines**
 * Built scalable full-stack architecture using the **MERN stack** for seamless frontend and backend integration
 * Implemented modules for competitor analysis, brand positioning, social media strategy, and marketing insights
-* Generated AI-driven reports and strategic recommendations to support data-driven decision making
-* Designed the platform to improve operational efficiency and streamline digital marketing processes for businesses and startups
 
 ### Tech Stack
 
