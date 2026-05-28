@@ -156,10 +156,4 @@ https://github.com/mona-2010/TheStrategyFilter
 
 </div>
 
----
-
-<div align="center">
-
-### 💻 Building scalable applications with modern web technologies.
-
-</div>
+--- 
