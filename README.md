@@ -60,7 +60,7 @@ const monalisa = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mona-2010&theme=tokyonight&hide_border=true&v=2"/>
+<img src="https://streak-stats.demolab.com?user=mona-2010&theme=tokyonight&hide_border=true&v=100000"/>
 </div>
 
 ---
