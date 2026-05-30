@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Next.js Engineer • AI Powered Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production+Ready+Web+Applications;Next.js+%2B+Supabase+%2B+TypeScript;AI+Integrated+Full+Stack+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production+Ready+Web+Applications;Next.js+%2B+Supabase+%2B+TypeScript;AI+Integrated+Full+Stack+System" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mona-2010&style=for-the-badge" />
@@ -17,7 +17,7 @@
 # 💫 About Me
 
 ```ts
-const monalisa = {
+const Mona = {
   role: "Full Stack Developer",
   specialization: [
     "Next.js Applications",
