@@ -60,7 +60,7 @@ const Mona = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mona-2010&theme=tokyonight&hide_border=true&v=5"/>
+<img src="https://streak-stats.demolab.com?user=mona-2010&theme=tokyonight&hide_border=true&v=6"/>
 </div>
 
 ---
